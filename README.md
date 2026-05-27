@@ -53,7 +53,10 @@ Focused on building scalable automation systems and enterprise solutions.
 ## 📂 Project Structure
 
 ```bash
-portfolio/
-│
-├── index.html
+📁 portfolio/
 ├── Anshika_Singh_Resume.pdf
+├── index.html     ← main HTML 
+├── style.css      ← all portfolio styles (nav, hero, skills, etc.)
+├── chat.css       ← all chat widget styles
+├── main.js        ← portfolio JS (particles, tilt, scroll reveal, nav spy)
+└── chat.js        ← chat widget JS (knowledge base + logic)
